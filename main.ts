@@ -27,7 +27,7 @@ console.log("Tutor:", filhote.tutor);
 
 filhote.adotar("Vanessa");
 
-console.log("Tutor após adoção:", filhote.tutor);
+console.log("Tutor depoois da adoção:", filhote.tutor);
 
 console.log("QUESTÃO 3");
 
